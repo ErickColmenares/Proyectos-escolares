@@ -1,3 +1,4 @@
+%Programa que grafica el espectrogrma de un audio grabado
 
 %obtenemos una muestra de audio
 recObj = audiorecorder(48000,24,1);
